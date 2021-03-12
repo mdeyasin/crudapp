@@ -2,11 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###step 1:  Clone project in your directory
+### step 1:  Clone project in your directory
 
-#####git clone {project url}
+##### git clone {project url}
 
-###step 2: In the project directory, you can run:
+### step 2: In the project directory, you can run:
 
 ##### `npm install`
 
